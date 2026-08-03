@@ -35,5 +35,4 @@ public class Variables {
          System.out.println("Grate is "+grade);
      }
 
-
 }
